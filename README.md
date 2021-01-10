@@ -1,4 +1,4 @@
-# Adventure - Dereferencing
+# Dereferencing - Adventure game
 Small retro-like adventure game written in C.
 
 # How to play:
