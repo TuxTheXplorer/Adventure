@@ -1,5 +1,5 @@
-# Adventure
-Small retro-like adventure game written in C
+# Adventure - Dereferencing
+Small retro-like adventure game written in C.
 
 # How to play:
 - Compile the game from source (adventure.c)
