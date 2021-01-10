@@ -8,7 +8,7 @@ Small retro-like adventure game written in C
 
 # Movement:
 - w,a,s,d : Move left, up, down, right
--       e : Quit the game
+- e : Quit the game
 
 # How to compile:
 
