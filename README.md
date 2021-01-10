@@ -6,8 +6,8 @@ Small retro-like adventure game written in C
 - Free the princess and find the easter egg
 
 # Movement:
-> w,a,s,d : Move left, up, down, right
-> e : Quit the game
+- w,a,s,d : Move left, up, down, right
+- e : Quit the game
 
 # How to compile:
 
